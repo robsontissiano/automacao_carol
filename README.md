@@ -2,6 +2,7 @@
 
 ![alt text](https://raw.githubusercontent.com/robsontissiano/automacao_carol/blob/master/pastedImage.png)
 
+![alt text](https://github.com/robsontissiano/automacao_carol/blob/master/pastedImage.png)
 
 e na etapa 03, os requisitos são:
 a) O programa deve receber instrução de continuar antes de executar
